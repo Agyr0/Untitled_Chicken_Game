@@ -5,8 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap",
-				"C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/StarterContent/Levels/Tucker_TestScene.umap",
 				"C:/Users/Tucker/Documents/Unreal Projects/UntitledChicken_Game/Content/StarterContent/Props/MaterialSphere.uasset"
 			]
 		}
