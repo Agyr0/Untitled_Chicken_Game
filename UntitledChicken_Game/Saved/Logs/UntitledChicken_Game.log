@@ -1727,3 +1727,297 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.09-21.31.18:771][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
 [2023.06.09-21.31.18:833][600]LogPlayLevel: Display: Destroying online subsystem :Context_11
 [2023.06.09-21.31.20:790][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.09-21.31.45:791][260]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.06.09-21.32.36:110][ 74]LogSlate: Window 'Material Baking Options' being destroyed
+[2023.06.09-21.33.10:166][103]LogEditorViewport: Clicking Background
+[2023.06.09-21.33.13:878][322]LogEditorViewport: Clicking Background
+[2023.06.09-21.33.18:998][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.18:999][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.18:999][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.19:000][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.19:000][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.19:000][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.19:001][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.19:001][628]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.26:159][ 57]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.28:043][169]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.33.28:047][169]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.33.28:047][169]PIE: New page: PIE session: ReinTest_Level01 (Jun 9, 2023, 7:33:28 AM)
+[2023.06.09-21.33.28:048][169]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.33.28:049][169]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001109s)
+[2023.06.09-21.33.28:049][169]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ReinTest_Level01.ReinTest_Level01 to /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 (0.001138s)
+[2023.06.09-21.33.28:049][169]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.33.28:049][169]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.33.28:049][169]LogAIModule: Creating AISystem for world ReinTest_Level01
+[2023.06.09-21.33.28:049][169]LogPlayLevel: PIE: World Init took: (0.000641s)
+[2023.06.09-21.33.28:064][169]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.09-21.33.28:068][169]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.33.28:068][169]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.33.28:068][169]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.33.28:068][169]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.33.28:068][169]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.33.28:068][169]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.33.28:070][169]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.33.28:088][169]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter VAIO3 Input (VB-Audio VoiceMeeter VAIO3)
+[2023.06.09-21.33.28:088][169]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.33.28:088][169]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.33.28:088][169]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.33.28:089][169]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.06.09-21.33.28:089][169]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.06.09-21.33.28:090][169]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.06.09-21.33.28:090][169]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.06.09-21.33.28:090][169]LogInit: FAudioDevice initialized with ID 5.
+[2023.06.09-21.33.28:090][169]LogAudio: Display: Audio Device (ID: 5) registered with world 'ReinTest_Level01'.
+[2023.06.09-21.33.28:090][169]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.06.09-21.33.28:093][169]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.33.28:093][169]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 up for play (max tick rate 60) at 2023.06.09-14.33.28
+[2023.06.09-21.33.28:093][169]LogWorld: Bringing up level for play took: 0.000423
+[2023.06.09-21.33.28:095][169]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.06.09-21.33.28:098][169]PIE: Server logged in
+[2023.06.09-21.33.28:099][169]PIE: Play in editor total start time 0.052 seconds.
+[2023.06.09-21.33.28:176][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:176][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:176][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:177][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:177][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:177][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:178][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:178][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:178][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:179][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:179][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:179][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:180][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:180][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:180][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:180][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:180][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.28:182][169]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:300][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.33.34:301][533]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.33.34:301][533]LogWorld: UWorld::CleanupWorld for ReinTest_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.33.34:301][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.33.34:303][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.33.34:307][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.33.34:320][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.33.34:321][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.06.09-21.33.34:321][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.09-21.33.34:322][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.09-21.33.34:325][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.33.34:327][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.09-21.33.34:346][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:346][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:346][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:346][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:347][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:347][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:347][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:348][533]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.34:377][535]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.09-21.33.36:285][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2023.06.09-21.33.36:287][648]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.33.36:326][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2023.06.09-21.33.36:330][648]LogSavePackage: Moving output files for package: /Game/Levels/ReinTest_Level01
+[2023.06.09-21.33.36:330][648]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level014CDCFB1B45118AC073C97FAEEF06EDB3.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap'
+[2023.06.09-21.33.36:335][648]LogFileHelpers: Saving map 'ReinTest_Level01' took 0.024
+[2023.06.09-21.33.36:343][648]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.09-21.33.36:343][648]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/BP_ThirdPersonCharacter09182B854FE5BDD59308A58196DC1AEE.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.09-21.33.36:364][648]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 323 ms)
+[2023.06.09-21.33.36:371][648]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.09-21.33.36:371][648]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-21.33.36:371][648]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/ReinTest_Level01.ReinTest_Level01
+[2023.06.09-21.33.43:263][ 56]Cmd: DELETE
+[2023.06.09-21.33.43:263][ 56]Cmd: ACTOR DELETE
+[2023.06.09-21.33.43:263][ 56]LogEditorActor: Deleted Actor: PlayerStart
+[2023.06.09-21.33.43:282][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.09-21.33.43:283][ 56]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2023.06.09-21.33.47:196][289]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.33.47:196][289]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.33.47:196][289]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_2
+[2023.06.09-21.33.47:196][289]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.47:196][289]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_2
+[2023.06.09-21.33.47:196][289]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.48:053][340]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.33.48:053][340]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.33.48:056][340]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_3
+[2023.06.09-21.33.48:056][340]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.48:056][340]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_3
+[2023.06.09-21.33.48:056][340]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.48:071][340]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.33.50:241][471]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.33.52:110][581]LogEditorViewport: Clicking Background
+[2023.06.09-21.34.33:558][ 97]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.34.33:563][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.34.33:563][ 97]PIE: New page: PIE session: ReinTest_Level01 (Jun 9, 2023, 7:34:33 AM)
+[2023.06.09-21.34.33:563][ 97]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.34.33:564][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001061s)
+[2023.06.09-21.34.33:564][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ReinTest_Level01.ReinTest_Level01 to /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 (0.001086s)
+[2023.06.09-21.34.33:564][ 97]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.34.33:564][ 97]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.34.33:565][ 97]LogAIModule: Creating AISystem for world ReinTest_Level01
+[2023.06.09-21.34.33:565][ 97]LogPlayLevel: PIE: World Init took: (0.000683s)
+[2023.06.09-21.34.33:581][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.09-21.34.33:583][ 97]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.34.33:583][ 97]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.34.33:583][ 97]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.34.33:583][ 97]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.34.33:583][ 97]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.34.33:583][ 97]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.34.33:585][ 97]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.34.33:603][ 97]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter VAIO3 Input (VB-Audio VoiceMeeter VAIO3)
+[2023.06.09-21.34.33:604][ 97]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.34.33:604][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.34.33:604][ 97]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.34.33:605][ 97]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.06.09-21.34.33:605][ 97]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.06.09-21.34.33:606][ 97]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.06.09-21.34.33:606][ 97]LogInit: FAudioDevice initialized with ID 6.
+[2023.06.09-21.34.33:606][ 97]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.06.09-21.34.33:606][ 97]LogAudio: Display: Audio Device (ID: 6) registered with world 'ReinTest_Level01'.
+[2023.06.09-21.34.33:606][ 97]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.06.09-21.34.33:609][ 97]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.34.33:609][ 97]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 up for play (max tick rate 60) at 2023.06.09-14.34.33
+[2023.06.09-21.34.33:609][ 97]LogWorld: Bringing up level for play took: 0.000431
+[2023.06.09-21.34.33:610][ 97]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2023.06.09-21.34.33:613][ 97]PIE: Server logged in
+[2023.06.09-21.34.33:615][ 97]PIE: Play in editor total start time 0.052 seconds.
+[2023.06.09-21.34.33:685][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:685][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:685][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:685][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:686][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:686][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:686][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:687][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:687][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:687][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:687][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:688][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:688][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:688][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:688][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:689][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:689][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.33:689][ 97]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:060][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.34.38:060][356]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.34.38:060][356]LogWorld: UWorld::CleanupWorld for ReinTest_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.34.38:060][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.34.38:063][356]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.34.38:066][356]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.34.38:083][356]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.34.38:083][356]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.06.09-21.34.38:083][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.09-21.34.38:085][356]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.09-21.34.38:088][356]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.34.38:089][356]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.09-21.34.38:107][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:107][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:107][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:108][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:108][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:108][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:109][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:109][356]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.34.38:127][358]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.06.09-21.35.24:675][547]LogEditorViewport: Clicking Background
+[2023.06.09-21.35.28:602][773]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.35.28:607][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.35.28:607][773]PIE: New page: PIE session: ReinTest_Level01 (Jun 9, 2023, 7:35:28 AM)
+[2023.06.09-21.35.28:607][773]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.35.28:608][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2023.06.09-21.35.28:608][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ReinTest_Level01.ReinTest_Level01 to /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 (0.001167s)
+[2023.06.09-21.35.28:608][773]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.35.28:608][773]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.35.28:608][773]LogAIModule: Creating AISystem for world ReinTest_Level01
+[2023.06.09-21.35.28:608][773]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.06.09-21.35.28:623][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.09-21.35.28:623][773]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.35.28:623][773]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.35.28:625][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.35.28:625][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.35.28:625][773]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.35.28:625][773]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.35.28:625][773]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.35.28:626][773]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.35.28:646][773]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter VAIO3 Input (VB-Audio VoiceMeeter VAIO3)
+[2023.06.09-21.35.28:646][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.35.28:646][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.35.28:646][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.35.28:648][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.06.09-21.35.28:648][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.06.09-21.35.28:649][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.06.09-21.35.28:649][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.06.09-21.35.28:649][773]LogInit: FAudioDevice initialized with ID 7.
+[2023.06.09-21.35.28:649][773]LogAudio: Display: Audio Device (ID: 7) registered with world 'ReinTest_Level01'.
+[2023.06.09-21.35.28:649][773]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.06.09-21.35.28:651][773]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.35.28:652][773]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 up for play (max tick rate 60) at 2023.06.09-14.35.28
+[2023.06.09-21.35.28:652][773]LogWorld: Bringing up level for play took: 0.000419
+[2023.06.09-21.35.28:653][773]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.06.09-21.35.28:656][773]PIE: Server logged in
+[2023.06.09-21.35.28:657][773]PIE: Play in editor total start time 0.051 seconds.
+[2023.06.09-21.35.28:730][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:730][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:731][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:731][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:731][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:732][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:732][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:732][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:733][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:733][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:733][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:733][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:735][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.28:736][773]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:120][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.35.32:120][973]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.35.32:120][973]LogWorld: UWorld::CleanupWorld for ReinTest_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.35.32:120][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.35.32:123][973]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.35.32:127][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.35.32:142][973]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.35.32:143][973]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.06.09-21.35.32:143][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.09-21.35.32:145][973]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.06.09-21.35.32:149][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.06.09-21.35.32:166][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:166][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:166][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:167][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:167][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:167][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:167][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:167][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.35.32:188][975]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.06.09-21.37.34:956][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.09-21.37.34:959][530]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.37.35:000][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2023.06.09-21.37.35:005][530]LogSavePackage: Moving output files for package: /Game/Levels/ReinTest_Level01
+[2023.06.09-21.37.35:005][530]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level0151CF362E41DFC1FE4256D89CB59C21D3.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap'
+[2023.06.09-21.37.35:010][530]LogFileHelpers: Saving map 'ReinTest_Level01' took 0.025
+[2023.06.09-21.37.35:018][530]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 382 ms)
+[2023.06.09-21.37.35:024][530]AssetCheck: New page: Asset Save: ReinTest_Level01
+[2023.06.09-21.37.35:024][530]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/ReinTest_Level01.ReinTest_Level01
