@@ -5104,3 +5104,348 @@ Continue: Skip saving this asset only.
 [2023.06.09-21.45.19:647][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.09-21.45.19:647][410]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.09-21.45.19:658][412]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.06.09-21.47.51:032][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.47.51:035][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.47.51:035][397]PIE: New page: PIE session: Tucker_TestScene (Jun 9, 2023, 7:47:51 AM)
+[2023.06.09-21.47.51:064][397]LogPlayLevel: Creating play world package: /Game/StarterContent/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-21.47.51:065][397]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001227s)
+[2023.06.09-21.47.51:066][397]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Levels/Tucker_TestScene.Tucker_TestScene to /Game/StarterContent/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene (0.001265s)
+[2023.06.09-21.47.51:066][397]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.47.51:066][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.47.51:066][397]LogAIModule: Creating AISystem for world Tucker_TestScene
+[2023.06.09-21.47.51:066][397]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2023.06.09-21.47.51:082][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2023.06.09-21.47.51:084][397]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.47.51:084][397]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.47.51:084][397]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.47.51:084][397]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.47.51:084][397]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.47.51:084][397]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.47.51:087][397]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.47.51:099][397]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.06.09-21.47.51:100][397]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.47.51:100][397]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.47.51:100][397]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.47.51:100][397]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2023.06.09-21.47.51:100][397]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2023.06.09-21.47.51:101][397]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2023.06.09-21.47.51:101][397]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2023.06.09-21.47.51:101][397]LogInit: FAudioDevice initialized with ID 24.
+[2023.06.09-21.47.51:101][397]LogAudio: Display: Audio Device (ID: 24) registered with world 'Tucker_TestScene'.
+[2023.06.09-21.47.51:101][397]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2023.06.09-21.47.51:104][397]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.47.51:104][397]LogWorld: Bringing World /Game/StarterContent/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene up for play (max tick rate 0) at 2023.06.09-14.47.51
+[2023.06.09-21.47.51:105][397]LogWorld: Bringing up level for play took: 0.000474
+[2023.06.09-21.47.51:106][397]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.06.09-21.47.51:109][397]PIE: Server logged in
+[2023.06.09-21.47.51:109][397]PIE: Play in editor total start time 0.074 seconds.
+[2023.06.09-21.47.51:178][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:178][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:178][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:179][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:179][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:179][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:179][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:179][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:180][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:181][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:181][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:181][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:181][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.47.51:181][397]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.48.04:835][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.48.04:835][751]LogWorld: BeginTearingDown for /Game/StarterContent/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-21.48.04:835][751]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.48.04:835][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.48.04:838][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.48.04:840][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.48.04:854][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.48.04:854][751]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2023.06.09-21.48.04:854][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.06.09-21.48.04:856][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2023.06.09-21.48.04:860][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.06.09-21.48.04:881][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.48.04:882][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.48.04:882][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.48.04:882][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.48.04:936][754]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.06.09-21.48.14:353][646]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.48.42:024][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.06.09-21.48.42:030][111]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Levels/Tucker_TestScene_Auto2
+[2023.06.09-21.48.42:030][111]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene_Auto2637FC56D4479E6548A24A493BCB33467.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Autosaves/Game/StarterContent/Levels/Tucker_TestScene_Auto2.umap'
+[2023.06.09-21.48.42:032][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Levels/Tucker_TestScene' took 0.024
+[2023.06.09-21.48.42:032][111]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.06.09-21.55.01:219][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.09-21.55.01:225][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.55.01:301][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.09-21.55.01:305][175]LogSavePackage: Moving output files for package: /Game/StarterContent/Levels/Tucker_TestScene
+[2023.06.09-21.55.01:305][175]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene6EE3DDD84ABDC951BA29DCACE52457A3.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/StarterContent/Levels/Tucker_TestScene.umap'
+[2023.06.09-21.55.01:307][175]LogFileHelpers: Saving map 'Tucker_TestScene' took 0.022
+[2023.06.09-21.55.01:311][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2:05 min)
+[2023.06.09-21.55.01:314][175]AssetCheck: New page: Asset Save: Tucker_TestScene
+[2023.06.09-21.55.01:314][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-21.56.26:790][591]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.56.26:853][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.09-21.56.26:860][591]LogSavePackage: Moving output files for package: /Game/Levels/Tucker_TestScene
+[2023.06.09-21.56.26:860][591]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene3B3A99FD476B423F2AFA048449BCAEBE.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap'
+[2023.06.09-21.56.26:862][591]LogFileHelpers: Saving map 'Tucker_TestScene' took 0.025
+[2023.06.09-21.56.26:867][591]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2:05 min)
+[2023.06.09-21.56.26:889][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.06.09-21.56.26:904][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.06.09-21.56.26:917][591]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.09-21.56.26:929][591]AssetCheck: New page: Asset Save: Tucker_TestScene
+[2023.06.09-21.56.26:929][591]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-21.56.31:714][ 32]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.31:752][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.38:111][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.09-21.56.38:114][599]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-21.56.38:114][599]Cmd: MAP LOAD FILE="C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-21.56.38:114][599]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.38:114][599]LoadErrors: New page: Loading map: Tucker_TestScene.umap
+[2023.06.09-21.56.38:115][599]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.38:115][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.38:115][599]MapCheck: New page: Map Check
+[2023.06.09-21.56.38:115][599]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.38:127][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.56.38:129][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.06.09-21.56.38:132][599]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tucker_TestScene'.
+[2023.06.09-21.56.38:132][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.38:132][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.56.38:132][599]LogAIModule: Creating AISystem for world Tucker_TestScene
+[2023.06.09-21.56.38:142][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-21.56.38:157][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.09-21.56.38:160][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-21.56.38:160][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2023.06.09-21.56.38:160][599]LogFileHelpers: Loading map 'Tucker_TestScene' took 0.046
+[2023.06.09-21.56.38:166][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.38:166][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.38:166][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.38:166][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.39:933][751]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.56.39:937][751]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.56.39:937][751]PIE: New page: PIE session: Tucker_TestScene (Jun 9, 2023, 7:56:39 AM)
+[2023.06.09-21.56.39:965][751]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-21.56.39:966][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000937s)
+[2023.06.09-21.56.39:966][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tucker_TestScene.Tucker_TestScene to /Game/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene (0.000982s)
+[2023.06.09-21.56.39:966][751]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.39:966][751]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.56.39:966][751]LogAIModule: Creating AISystem for world Tucker_TestScene
+[2023.06.09-21.56.39:966][751]LogPlayLevel: PIE: World Init took: (0.000622s)
+[2023.06.09-21.56.39:980][751]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.09-21.56.39:982][751]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.56.39:982][751]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.56.39:982][751]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.56.39:982][751]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.56.39:982][751]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.56.39:982][751]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.56.39:984][751]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.56.39:997][751]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.06.09-21.56.39:997][751]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.56.39:997][751]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.56.39:997][751]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.56.39:998][751]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2023.06.09-21.56.39:998][751]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2023.06.09-21.56.39:999][751]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2023.06.09-21.56.39:999][751]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2023.06.09-21.56.39:999][751]LogInit: FAudioDevice initialized with ID 25.
+[2023.06.09-21.56.39:999][751]LogAudio: Display: Audio Device (ID: 25) registered with world 'Tucker_TestScene'.
+[2023.06.09-21.56.39:999][751]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2023.06.09-21.56.40:001][751]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.56.40:002][751]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene up for play (max tick rate 0) at 2023.06.09-14.56.40
+[2023.06.09-21.56.40:002][751]LogWorld: Bringing up level for play took: 0.000384
+[2023.06.09-21.56.40:003][751]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.06.09-21.56.40:006][751]PIE: Server logged in
+[2023.06.09-21.56.40:006][751]PIE: Play in editor total start time 0.07 seconds.
+[2023.06.09-21.56.40:078][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:078][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:078][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:078][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:079][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:079][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:079][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:079][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:079][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:080][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:081][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:081][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:081][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.40:081][751]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.43:195][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.56.43:195][ 27]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-21.56.43:195][ 27]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.43:196][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.43:198][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.56.43:200][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.43:214][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.56.43:214][ 27]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2023.06.09-21.56.43:214][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.06.09-21.56.43:215][ 27]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2023.06.09-21.56.43:219][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.06.09-21.56.43:227][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.43:227][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.43:227][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.43:227][ 27]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.43:278][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.06.09-21.56.44:315][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.06.09-21.56.44:353][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.44:354][118]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Level_Travis.Level_Travis
+[2023.06.09-21.56.44:354][118]Cmd: MAP LOAD FILE="C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Level_Travis.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-21.56.44:354][118]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.44:354][118]LoadErrors: New page: Loading map: Level_Travis.umap
+[2023.06.09-21.56.44:375][118]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.44:375][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.44:375][118]MapCheck: New page: Map Check
+[2023.06.09-21.56.44:375][118]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.44:389][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.56.44:390][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.09-21.56.44:392][118]LogWorld: UWorld::CleanupWorld for Level_Travis, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.44:392][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.44:406][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.06.09-21.56.44:420][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.06.09-21.56.44:423][118]LogAudio: Display: Audio Device (ID: 1) registered with world 'Level_Travis'.
+[2023.06.09-21.56.44:423][118]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.44:423][118]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.56.44:423][118]LogAIModule: Creating AISystem for world Level_Travis
+[2023.06.09-21.56.44:433][118]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-21.56.44:447][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.09-21.56.44:450][118]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-21.56.44:450][118]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.096ms to complete.
+[2023.06.09-21.56.44:450][118]LogFileHelpers: Loading map 'Level_Travis' took 0.096
+[2023.06.09-21.56.44:461][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:461][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.44:462][118]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:848][251]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.56.45:851][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-21.56.45:851][251]PIE: New page: PIE session: Level_Travis (Jun 9, 2023, 7:56:45 AM)
+[2023.06.09-21.56.45:851][251]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level_Travis
+[2023.06.09-21.56.45:852][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000851s)
+[2023.06.09-21.56.45:852][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level_Travis.Level_Travis to /Game/Levels/UEDPIE_0_Level_Travis.Level_Travis (0.000872s)
+[2023.06.09-21.56.45:852][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.45:852][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.56.45:852][251]LogAIModule: Creating AISystem for world Level_Travis
+[2023.06.09-21.56.45:853][251]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2023.06.09-21.56.45:867][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.06.09-21.56.45:869][251]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.56.45:869][251]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.56.45:869][251]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.56.45:870][251]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.56.45:870][251]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.56.45:870][251]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.56.45:871][251]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.56.45:883][251]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.06.09-21.56.45:883][251]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.56.45:883][251]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.56.45:883][251]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.56.45:884][251]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2023.06.09-21.56.45:884][251]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=26
+[2023.06.09-21.56.45:885][251]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2023.06.09-21.56.45:885][251]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2023.06.09-21.56.45:885][251]LogInit: FAudioDevice initialized with ID 26.
+[2023.06.09-21.56.45:885][251]LogAudio: Display: Audio Device (ID: 26) registered with world 'Level_Travis'.
+[2023.06.09-21.56.45:885][251]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2023.06.09-21.56.45:887][251]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.56.45:888][251]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level_Travis.Level_Travis up for play (max tick rate 0) at 2023.06.09-14.56.45
+[2023.06.09-21.56.45:888][251]LogWorld: Bringing up level for play took: 0.000426
+[2023.06.09-21.56.45:889][251]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.06.09-21.56.45:891][251]PIE: Server logged in
+[2023.06.09-21.56.45:892][251]PIE: Play in editor total start time 0.04 seconds.
+[2023.06.09-21.56.45:972][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:973][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:973][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:973][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:973][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:974][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:974][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:974][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:974][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:974][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:975][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:976][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.45:976][251]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:405][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.56.50:405][631]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level_Travis
+[2023.06.09-21.56.50:405][631]LogWorld: UWorld::CleanupWorld for Level_Travis, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.50:405][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.50:408][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.56.50:410][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.50:424][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.56.50:424][631]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2023.06.09-21.56.50:424][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.06.09-21.56.50:426][631]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2023.06.09-21.56.50:430][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.09-21.56.50:437][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:437][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:437][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:438][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:438][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:438][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:438][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:438][631]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.50:481][636]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.06.09-21.56.53:155][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.06.09-21.56.53:203][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.53:204][860]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-21.56.53:204][860]Cmd: MAP LOAD FILE="C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-21.56.53:204][860]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.53:204][860]LoadErrors: New page: Loading map: Tucker_TestScene.umap
+[2023.06.09-21.56.53:204][860]LogWorld: UWorld::CleanupWorld for Level_Travis, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.53:204][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.53:204][860]MapCheck: New page: Map Check
+[2023.06.09-21.56.53:204][860]LightingResults: New page: Lighting Build
+[2023.06.09-21.56.53:217][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.56.53:219][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.06.09-21.56.53:221][860]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.56.53:221][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.56.53:234][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.06.09-21.56.53:248][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.06.09-21.56.53:252][860]LogAudio: Display: Audio Device (ID: 1) registered with world 'Tucker_TestScene'.
+[2023.06.09-21.56.53:252][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.56.53:252][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.56.53:252][860]LogAIModule: Creating AISystem for world Tucker_TestScene
+[2023.06.09-21.56.53:262][860]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-21.56.53:276][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.09-21.56.53:279][860]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-21.56.53:279][860]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.117ms to complete.
+[2023.06.09-21.56.53:279][860]LogFileHelpers: Loading map 'Tucker_TestScene' took 0.075
+[2023.06.09-21.56.53:290][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.53:290][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.53:290][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.56.53:291][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
