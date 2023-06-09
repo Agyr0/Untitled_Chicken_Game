@@ -5525,3 +5525,197 @@ Continue: Skip saving this asset only.
 [2023.06.09-21.58.13:747][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.09-21.58.13:747][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.09-21.58.13:781][ 28]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2023.06.09-21.59.49:933][392]LogDerivedDataCache: C:/Users/Tucker/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.043 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 718 files in 1122 folders with total size 13 MiB.
+[2023.06.09-22.04.33:239][277]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-22.04.33:242][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.09-22.04.33:242][277]PIE: New page: PIE session: Tucker_TestScene (Jun 9, 2023, 8:04:33 AM)
+[2023.06.09-22.04.33:242][277]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-22.04.33:243][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001146s)
+[2023.06.09-22.04.33:243][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Tucker_TestScene.Tucker_TestScene to /Game/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene (0.001180s)
+[2023.06.09-22.04.33:243][277]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-22.04.33:244][277]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-22.04.33:244][277]LogAIModule: Creating AISystem for world Tucker_TestScene
+[2023.06.09-22.04.33:244][277]LogPlayLevel: PIE: World Init took: (0.000710s)
+[2023.06.09-22.04.33:260][277]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.06.09-22.04.33:263][277]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-22.04.33:263][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-22.04.33:263][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-22.04.33:263][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-22.04.33:263][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-22.04.33:263][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-22.04.33:266][277]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-22.04.33:278][277]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Realtek(R) Audio)
+[2023.06.09-22.04.33:279][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-22.04.33:279][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-22.04.33:279][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-22.04.33:279][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.06.09-22.04.33:279][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.06.09-22.04.33:280][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.06.09-22.04.33:280][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.06.09-22.04.33:280][277]LogInit: FAudioDevice initialized with ID 28.
+[2023.06.09-22.04.33:280][277]LogAudio: Display: Audio Device (ID: 28) registered with world 'Tucker_TestScene'.
+[2023.06.09-22.04.33:280][277]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.06.09-22.04.33:283][277]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-22.04.33:283][277]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Tucker_TestScene.Tucker_TestScene up for play (max tick rate 0) at 2023.06.09-15.04.33
+[2023.06.09-22.04.33:284][277]LogWorld: Bringing up level for play took: 0.000447
+[2023.06.09-22.04.33:285][277]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2023.06.09-22.04.33:288][277]PIE: Server logged in
+[2023.06.09-22.04.33:288][277]PIE: Play in editor total start time 0.046 seconds.
+[2023.06.09-22.04.33:369][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:370][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:370][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:370][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:370][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:370][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:371][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:371][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:371][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:371][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:371][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:372][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:373][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.33:373][277]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.34:761][401]LogViewport: Scene viewport resized to 1143x549, mode Windowed.
+[2023.06.09-22.04.36:996][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-22.04.36:996][614]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Tucker_TestScene
+[2023.06.09-22.04.36:996][614]LogWorld: UWorld::CleanupWorld for Tucker_TestScene, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-22.04.36:997][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-22.04.36:999][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-22.04.37:001][614]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-22.04.37:015][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-22.04.37:015][614]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.06.09-22.04.37:015][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.06.09-22.04.37:017][614]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.06.09-22.04.37:021][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.06.09-22.04.37:030][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.37:030][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.37:030][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.37:030][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-22.04.37:065][618]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2023.06.09-22.05.07:807][667]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-22.05.10:498][911]LogEditorViewport: Clicking Background
+[2023.06.09-22.05.14:504][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.06.09-22.05.14:509][286]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-22.05.14:566][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.09-22.05.14:569][286]LogSavePackage: Moving output files for package: /Game/Levels/Tucker_TestScene
+[2023.06.09-22.05.14:570][286]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestSceneB45DFD8648676C2D22B771B6DBF8ED5B.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap'
+[2023.06.09-22.05.14:572][286]LogFileHelpers: Saving map 'Tucker_TestScene' took 0.022
+[2023.06.09-22.05.14:576][286]LogFileHelpers: InternalPromptForCheckoutAndSave took 66 ms (total: 2:05 min)
+[2023.06.09-22.05.14:579][286]AssetCheck: New page: Asset Save: Tucker_TestScene
+[2023.06.09-22.05.14:579][286]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-22.08.55:962][793]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Bridge/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/TraceUtilities/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Interchange/Runtime/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Metasound/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaPlate/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:753][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/IKRig/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:754][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRig/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:754][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:754][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:754][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.10:754][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.14.22:044][ 11]LogSlate: Window 'Submit Files' being destroyed
+[2023.06.09-22.14.22:248][ 11]LogSourceControl: commit successful: [Tucker's_Branch 4ab80f5] test
+[2023.06.09-22.14.22:281][ 11]SourceControl: [Tucker's_Branch 4ab80f5] test
+[2023.06.09-22.14.22:281][ 11]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.06.09-22.14.22:290][ 11]SourceControl: Commited [Tucker's_Branch 4ab80f5] test.
+[2023.06.09-22.16.43:350][149]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-22.16.43:412][149]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2023.06.09-22.16.43:419][149]LogSavePackage: Moving output files for package: /Game/Levels/Tucker_TestScene
+[2023.06.09-22.16.43:419][149]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene1A995D304DC2579660A99787B3065734.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap'
+[2023.06.09-22.16.43:421][149]LogFileHelpers: Saving map 'Tucker_TestScene' took 0.024
+[2023.06.09-22.16.43:428][149]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 2:05 min)
+[2023.06.09-22.16.43:432][149]AssetCheck: New page: Asset Save: Tucker_TestScene
+[2023.06.09-22.16.43:432][149]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Tucker_TestScene.Tucker_TestScene
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Bridge/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Bridge/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/TraceUtilities/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/TraceUtilities/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/2D/Paper2D/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/GLTFExporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:723][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosCaching/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/Dataflow/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/FullBodyIK/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryFlow/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshLODToolset/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/UVEditor/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Interchange/Runtime/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Interchange/Runtime/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioWidgets/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/GeometryProcessing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/MeshModelingToolset/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Metasound/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Metasound/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/ResonanceAudio/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/WaveTable/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/MeshModelingToolsetExp/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaPlate/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Media/MediaPlate/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/MovieScene/SequencerScripting/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/BlueprintHeaderView/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/GLTFImporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ModelingToolsEditorMode/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRigSpline/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/IKRig/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/IKRig/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRig/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Animation/ControlRig/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/FX/Niagara/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/LightMixer/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.40:724][ 11]SourceControl: fatal: D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content: 'D:/Program Files (x86)/UE_5.2/Engine/Plugins/Editor/ObjectMixer/ObjectMixer/Content' is outside repository at 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game'
+[2023.06.09-22.19.46:041][ 11]LogSlate: Window 'Submit Files' being destroyed
+[2023.06.09-22.19.46:249][ 11]LogSourceControl: commit successful: [Tucker's_Branch 9e5a0a1] test
+[2023.06.09-22.19.46:284][ 11]SourceControl: [Tucker's_Branch 9e5a0a1] test
+[2023.06.09-22.19.46:284][ 11]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2023.06.09-22.19.46:298][ 11]SourceControl: Commited [Tucker's_Branch 9e5a0a1] test.
