@@ -5186,3 +5186,12 @@ Continue: Skip saving this asset only.
 [2023.06.09-21.48.42:030][111]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene_Auto2637FC56D4479E6548A24A493BCB33467.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Autosaves/Game/StarterContent/Levels/Tucker_TestScene_Auto2.umap'
 [2023.06.09-21.48.42:032][111]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Levels/Tucker_TestScene' took 0.024
 [2023.06.09-21.48.42:032][111]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2023.06.09-21.55.01:219][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.09-21.55.01:225][175]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.55.01:301][175]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.06.09-21.55.01:305][175]LogSavePackage: Moving output files for package: /Game/StarterContent/Levels/Tucker_TestScene
+[2023.06.09-21.55.01:305][175]LogSavePackage: Moving 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Tucker_TestScene6EE3DDD84ABDC951BA29DCACE52457A3.tmp' to 'C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/StarterContent/Levels/Tucker_TestScene.umap'
+[2023.06.09-21.55.01:307][175]LogFileHelpers: Saving map 'Tucker_TestScene' took 0.022
+[2023.06.09-21.55.01:311][175]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2:05 min)
+[2023.06.09-21.55.01:314][175]AssetCheck: New page: Asset Save: Tucker_TestScene
+[2023.06.09-21.55.01:314][175]LogContentValidation: Display: Validating /Script/Engine.World /Game/StarterContent/Levels/Tucker_TestScene.Tucker_TestScene
