@@ -1318,3 +1318,412 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.09-21.03.46:884][ 35]LogSlate: Window 'SM_QuarterCylinder' being destroyed
 [2023.06.09-21.03.46:911][ 35]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
 [2023.06.09-21.03.46:911][ 35]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.07.34:023][455]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.09-21.07.34:030][455]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.09-21.07.34:042][456]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.09-21.07.38:271][710]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.06.09-21.07.38:271][710]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.09-21.07.41:011][873]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2023.06.09-21.07.41:017][873]LogContentBrowser: Creating deferred item: NewWorld
+[2023.06.09-21.07.41:045][875]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2023.06.09-21.07.52:307][551]LogContentBrowser: Attempting asset rename: NewWorld -> ReinTest_Level01
+[2023.06.09-21.07.52:307][551]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.07.52:307][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.07.52:310][551]LogContentBrowser: End creating deferred item NewWorld
+[2023.06.09-21.07.53:632][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.06.09-21.07.53:640][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.09-21.07.56:893][630]LogSlate: Window 'Save Content' being destroyed
+[2023.06.09-21.07.56:925][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.07.56:955][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2023.06.09-21.07.56:959][630]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.003663 seconds
+[2023.06.09-21.07.56:960][630]LogSerialization: UsePackageTrailer: 'true'
+[2023.06.09-21.07.56:961][630]LogSavePackage: Moving output files for package: /Game/Levels/ReinTest_Level01
+[2023.06.09-21.07.56:961][630]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level01CE923A6042FC58B1B7D7D29120F9E667.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap'
+[2023.06.09-21.07.56:965][630]LogFileHelpers: Saving map 'ReinTest_Level01' took 0.016
+[2023.06.09-21.07.56:973][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms
+[2023.06.09-21.07.56:973][630]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Levels/ReinTest_Level01.ReinTest_Level01
+[2023.06.09-21.07.56:973][630]Cmd: MAP LOAD FILE="C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.06.09-21.07.56:973][630]LightingResults: New page: Lighting Build
+[2023.06.09-21.07.56:973][630]LoadErrors: New page: Loading map: ReinTest_Level01.umap
+[2023.06.09-21.07.57:011][630]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.07.57:011][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.07.57:014][630]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.06.09-21.07.57:014][630]MapCheck: New page: Map Check
+[2023.06.09-21.07.57:014][630]LightingResults: New page: Lighting Build
+[2023.06.09-21.07.57:020][630]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.09-21.07.57:022][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.06.09-21.07.57:023][630]LogWorld: UWorld::CleanupWorld for ReinTest_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.07.57:023][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.07.57:029][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.09-21.07.57:035][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2023.06.09-21.07.57:037][630]LogAudio: Display: Audio Device (ID: 1) registered with world 'ReinTest_Level01'.
+[2023.06.09-21.07.57:037][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.07.57:037][630]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.07.57:037][630]LogAIModule: Creating AISystem for world ReinTest_Level01
+[2023.06.09-21.07.57:043][630]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.06.09-21.07.57:049][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.06.09-21.07.57:051][630]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.06.09-21.07.57:051][630]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.083ms to complete.
+[2023.06.09-21.07.57:051][630]LogFileHelpers: Loading map 'ReinTest_Level01' took 0.079
+[2023.06.09-21.07.57:056][630]AssetCheck: New page: Asset Save: ReinTest_Level01
+[2023.06.09-21.07.57:056][630]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/ReinTest_Level01.ReinTest_Level01
+[2023.06.09-21.08.19:243][946]LogEditor: Attempting to add actor of class 'SkyLight' to level at 0.00,0.00,0.00
+[2023.06.09-21.08.19:790][976]LogEditor: Attempting to add actor of class 'DirectionalLight' to level at 0.00,0.00,0.00
+[2023.06.09-21.08.20:151][995]LogEditor: Attempting to add actor of class 'SkyAtmosphere' to level at 0.00,0.00,0.00
+[2023.06.09-21.08.20:477][ 13]LogEditor: Attempting to add actor of class 'VolumetricCloud' to level at 0.00,0.00,0.00
+[2023.06.09-21.08.20:870][ 35]LogEditor: Attempting to add actor of class 'ExponentialHeightFog' to level at 0.00,0.00,0.00
+[2023.06.09-21.08.23:671][201]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.06.09-21.08.23:679][201]LogSlate: Window 'Env. Light Mixer' being destroyed
+[2023.06.09-21.08.55:608][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: ================================================
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Total job queries 3,558, among them cache hits 11 (0.31%)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Tracking 3,545 distinct input hashes that result in 2,518 distinct outputs (71.03%)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: RAM used: 58.75 MiB of 3.20 GiB budget. Usage: 1.79%
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Shaders Compiled: 3,545
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Jobs assigned 3,547, completed 3,545 (99.94%)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Average time worker was idle: 6.31 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Time job spent in pending queue: average 55.60 s, longest 118.80 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Job execution time: average 4.11 s, max 12.33 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Job life time (pending + execution): average 59.74 s, max 123.04
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 134.60 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Jobs were issued in 453 batches (only local compilation was used), average 7.83 jobs/batch
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Average processing rate: 26.34 jobs/sec
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Total thread time: 1,460.127 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Total thread preprocess time: 47.94 s
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Percentage time preprocessing: 3.28%
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Effective parallelization: 10.85 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.86 sec, max 6.63 sec, min 1.43 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.60 sec, max 4.39 sec, min 2.11 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.29 sec, max 2.55 sec, min 0.57 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.12 sec, max 1.47 sec, min 0.92 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.11 sec, max 2.08 sec, min 0.21 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.50% of total time (compiled  150 times, average 1.12 sec, max 1.47 sec, min 0.92 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.85% of total time (compiled   96 times, average 0.74 sec, max 1.11 sec, min 0.54 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.63% of total time (compiled  128 times, average 0.53 sec, max 0.91 sec, min 0.32 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.31% of total time (compiled  128 times, average 0.49 sec, max 0.66 sec, min 0.37 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.23% of total time (compiled   96 times, average 0.64 sec, max 0.92 sec, min 0.30 sec)
+[2023.06.09-21.08.56:133][144]LogShaderCompilers: Display: ================================================
+[2023.06.09-21.08.56:481][165]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-21.08.56:481][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.08.56:481][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.08.57:280][165]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.06.09-21.08.58:309][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.09.44:243][888]LogViewport: Scene viewport resized to 1265x745, mode Windowed.
+[2023.06.09-21.12.19:555][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.12.19:585][121]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.12.19:619][121]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.06.09-21.12.19:619][121]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/BP_ThirdPersonCharacterDF7D43B9442FACE97604BBAA703CDABB.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.06.09-21.12.19:627][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 119 ms)
+[2023.06.09-21.12.19:635][121]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.06.09-21.12.19:635][121]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-21.17.08:062][858]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.06.09-21.17.08:069][858]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.06.09-21.17.08:072][858]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.17.08:072][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.17.22:262][696]LogViewport: Scene viewport resized to 625x584, mode Windowed.
+[2023.06.09-21.17.26:344][799]LogViewport: Scene viewport resized to 626x584, mode Windowed.
+[2023.06.09-21.17.26:377][799]LogViewport: Scene viewport resized to 630x590, mode Windowed.
+[2023.06.09-21.17.26:418][799]LogViewport: Scene viewport resized to 648x610, mode Windowed.
+[2023.06.09-21.17.26:458][799]LogViewport: Scene viewport resized to 693x649, mode Windowed.
+[2023.06.09-21.17.26:498][799]LogViewport: Scene viewport resized to 769x696, mode Windowed.
+[2023.06.09-21.17.26:549][799]LogViewport: Scene viewport resized to 878x760, mode Windowed.
+[2023.06.09-21.17.26:590][799]LogViewport: Scene viewport resized to 968x827, mode Windowed.
+[2023.06.09-21.17.26:658][799]LogViewport: Scene viewport resized to 1067x904, mode Windowed.
+[2023.06.09-21.17.26:728][799]LogViewport: Scene viewport resized to 1162x968, mode Windowed.
+[2023.06.09-21.17.26:798][799]LogViewport: Scene viewport resized to 1237x1002, mode Windowed.
+[2023.06.09-21.17.26:854][799]LogViewport: Scene viewport resized to 1285x1012, mode Windowed.
+[2023.06.09-21.17.26:919][799]LogViewport: Scene viewport resized to 1322x1022, mode Windowed.
+[2023.06.09-21.17.26:983][799]LogViewport: Scene viewport resized to 1342x1029, mode Windowed.
+[2023.06.09-21.17.27:031][799]LogViewport: Scene viewport resized to 1363x1032, mode Windowed.
+[2023.06.09-21.17.27:082][799]LogViewport: Scene viewport resized to 1381x1033, mode Windowed.
+[2023.06.09-21.17.27:134][799]LogViewport: Scene viewport resized to 1388x1035, mode Windowed.
+[2023.06.09-21.17.27:182][799]LogViewport: Scene viewport resized to 1393x1039, mode Windowed.
+[2023.06.09-21.17.27:232][799]LogViewport: Scene viewport resized to 1399x1045, mode Windowed.
+[2023.06.09-21.17.27:282][799]LogViewport: Scene viewport resized to 1411x1058, mode Windowed.
+[2023.06.09-21.17.27:354][799]LogViewport: Scene viewport resized to 1429x1076, mode Windowed.
+[2023.06.09-21.17.27:419][799]LogViewport: Scene viewport resized to 1430x1076, mode Windowed.
+[2023.06.09-21.17.27:467][799]LogViewport: Scene viewport resized to 1433x1080, mode Windowed.
+[2023.06.09-21.17.27:520][799]LogViewport: Scene viewport resized to 1443x1087, mode Windowed.
+[2023.06.09-21.17.27:584][799]LogViewport: Scene viewport resized to 1447x1091, mode Windowed.
+[2023.06.09-21.17.27:634][799]LogViewport: Scene viewport resized to 1455x1103, mode Windowed.
+[2023.06.09-21.17.27:684][799]LogViewport: Scene viewport resized to 1457x1107, mode Windowed.
+[2023.06.09-21.17.27:735][799]LogViewport: Scene viewport resized to 1460x1109, mode Windowed.
+[2023.06.09-21.17.34:162][182]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.06.09-21.17.34:162][182]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.17.34:162][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.17.44:503][639]LogViewport: Scene viewport resized to 1449x991, mode Windowed.
+[2023.06.09-21.19.23:916][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.06.09-21.19.23:921][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/ReinTest_Level01_Auto1
+[2023.06.09-21.19.23:921][243]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level01_Auto1E5B401D14D09AD1BCC3EF9B88333A1AE.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Autosaves/Game/Levels/ReinTest_Level01_Auto1.umap'
+[2023.06.09-21.19.23:926][243]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/ReinTest_Level01' took 0.030
+[2023.06.09-21.19.23:927][243]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2023.06.09-21.19.23:931][243]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2023.06.09-21.19.23:958][243]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2023.06.09-21.19.23:959][243]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2023.06.09-21.19.23:967][243]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2023.06.09-21.19.23:967][243]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/BP_ThirdPersonCharacter_Auto17208BCD54918C89759D109A96FC0AEE0.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2023.06.09-21.19.23:968][243]LogFileHelpers: Auto-saving content packages took 0.041
+[2023.06.09-21.21.18:446][118]LogViewport: Scene viewport resized to 1462x1107, mode Windowed.
+[2023.06.09-21.21.18:493][118]LogViewport: Scene viewport resized to 1472x1095, mode Windowed.
+[2023.06.09-21.21.18:540][118]LogViewport: Scene viewport resized to 1503x1063, mode Windowed.
+[2023.06.09-21.21.18:605][118]LogViewport: Scene viewport resized to 1621x1035, mode Windowed.
+[2023.06.09-21.21.18:659][118]LogViewport: Scene viewport resized to 1792x1040, mode Windowed.
+[2023.06.09-21.21.18:717][118]LogViewport: Scene viewport resized to 1961x1058, mode Windowed.
+[2023.06.09-21.21.18:781][118]LogViewport: Scene viewport resized to 2079x1074, mode Windowed.
+[2023.06.09-21.21.18:839][118]LogViewport: Scene viewport resized to 2127x1086, mode Windowed.
+[2023.06.09-21.21.18:888][118]LogViewport: Scene viewport resized to 2133x1092, mode Windowed.
+[2023.06.09-21.21.18:939][118]LogViewport: Scene viewport resized to 2133x1093, mode Windowed.
+[2023.06.09-21.21.18:985][118]LogViewport: Scene viewport resized to 2133x1095, mode Windowed.
+[2023.06.09-21.21.19:030][118]LogViewport: Scene viewport resized to 2131x1101, mode Windowed.
+[2023.06.09-21.21.19:080][118]LogViewport: Scene viewport resized to 1852x1112, mode Windowed.
+[2023.06.09-21.21.19:134][118]LogViewport: Scene viewport resized to 1851x1114, mode Windowed.
+[2023.06.09-21.21.19:189][118]LogViewport: Scene viewport resized to 1848x1119, mode Windowed.
+[2023.06.09-21.21.19:235][118]LogViewport: Scene viewport resized to 1846x1121, mode Windowed.
+[2023.06.09-21.21.19:285][118]LogViewport: Scene viewport resized to 1845x1123, mode Windowed.
+[2023.06.09-21.21.19:544][118]LogViewport: Scene viewport resized to 1844x1123, mode Windowed.
+[2023.06.09-21.21.19:594][118]LogViewport: Scene viewport resized to 1837x1123, mode Windowed.
+[2023.06.09-21.21.19:644][118]LogViewport: Scene viewport resized to 1813x1124, mode Windowed.
+[2023.06.09-21.21.19:693][118]LogViewport: Scene viewport resized to 1794x1124, mode Windowed.
+[2023.06.09-21.21.19:789][118]LogViewport: Scene viewport resized to 1795x1124, mode Windowed.
+[2023.06.09-21.21.19:838][118]LogViewport: Scene viewport resized to 1801x1124, mode Windowed.
+[2023.06.09-21.21.19:885][118]LogViewport: Scene viewport resized to 1812x1126, mode Windowed.
+[2023.06.09-21.21.19:937][118]LogViewport: Scene viewport resized to 1823x1128, mode Windowed.
+[2023.06.09-21.21.19:987][118]LogViewport: Scene viewport resized to 1826x1128, mode Windowed.
+[2023.06.09-21.21.20:037][118]LogViewport: Scene viewport resized to 1826x1129, mode Windowed.
+[2023.06.09-21.21.20:151][118]LogViewport: Scene viewport resized to 1826x1130, mode Windowed.
+[2023.06.09-21.21.20:328][118]LogViewport: Scene viewport resized to 1826x1129, mode Windowed.
+[2023.06.09-21.21.20:379][118]LogViewport: Scene viewport resized to 1824x1117, mode Windowed.
+[2023.06.09-21.21.20:436][118]LogViewport: Scene viewport resized to 1826x1099, mode Windowed.
+[2023.06.09-21.21.20:494][118]LogViewport: Scene viewport resized to 1832x1088, mode Windowed.
+[2023.06.09-21.21.20:539][118]LogViewport: Scene viewport resized to 1843x1067, mode Windowed.
+[2023.06.09-21.21.20:594][118]LogViewport: Scene viewport resized to 1855x1044, mode Windowed.
+[2023.06.09-21.21.20:649][118]LogViewport: Scene viewport resized to 1868x1011, mode Windowed.
+[2023.06.09-21.21.20:699][118]LogViewport: Scene viewport resized to 1870x968, mode Windowed.
+[2023.06.09-21.21.20:749][118]LogViewport: Scene viewport resized to 1863x924, mode Windowed.
+[2023.06.09-21.21.20:799][118]LogViewport: Scene viewport resized to 1865x922, mode Windowed.
+[2023.06.09-21.21.20:849][118]LogViewport: Scene viewport resized to 1896x935, mode Windowed.
+[2023.06.09-21.21.20:912][118]LogViewport: Scene viewport resized to 1969x991, mode Windowed.
+[2023.06.09-21.21.20:964][118]LogViewport: Scene viewport resized to 2014x1021, mode Windowed.
+[2023.06.09-21.21.21:024][118]LogViewport: Scene viewport resized to 2020x1034, mode Windowed.
+[2023.06.09-21.21.21:088][118]LogViewport: Scene viewport resized to 2032x1057, mode Windowed.
+[2023.06.09-21.21.21:163][118]LogViewport: Scene viewport resized to 2061x1100, mode Windowed.
+[2023.06.09-21.21.21:249][118]LogViewport: Scene viewport resized to 2073x1108, mode Windowed.
+[2023.06.09-21.21.21:311][118]LogViewport: Scene viewport resized to 2076x1109, mode Windowed.
+[2023.06.09-21.21.21:712][118]LogViewport: Scene viewport resized to 2077x1109, mode Windowed.
+[2023.06.09-21.21.21:795][118]LogViewport: Scene viewport resized to 2077x1248, mode Windowed.
+[2023.06.09-21.22.28:844][558]LogViewport: Scene viewport resized to 1460x1109, mode Windowed.
+[2023.06.09-21.23.57:397][ 37]LogViewport: Scene viewport resized to 1460x1110, mode Windowed.
+[2023.06.09-21.23.57:434][ 37]LogViewport: Scene viewport resized to 1460x1129, mode Windowed.
+[2023.06.09-21.23.57:489][ 37]LogViewport: Scene viewport resized to 1460x1144, mode Windowed.
+[2023.06.09-21.23.57:609][ 37]LogViewport: Scene viewport resized to 1460x1145, mode Windowed.
+[2023.06.09-21.24.00:046][179]LogViewport: Scene viewport resized to 1460x1146, mode Windowed.
+[2023.06.09-21.24.00:083][179]LogViewport: Scene viewport resized to 1460x1149, mode Windowed.
+[2023.06.09-21.24.00:137][179]LogViewport: Scene viewport resized to 1460x1157, mode Windowed.
+[2023.06.09-21.24.00:190][179]LogViewport: Scene viewport resized to 1460x1176, mode Windowed.
+[2023.06.09-21.24.00:250][179]LogViewport: Scene viewport resized to 1460x1199, mode Windowed.
+[2023.06.09-21.24.00:309][179]LogViewport: Scene viewport resized to 1460x1210, mode Windowed.
+[2023.06.09-21.24.00:367][179]LogViewport: Scene viewport resized to 1460x1214, mode Windowed.
+[2023.06.09-21.24.00:425][179]LogViewport: Scene viewport resized to 1460x1221, mode Windowed.
+[2023.06.09-21.24.00:474][179]LogViewport: Scene viewport resized to 1460x1233, mode Windowed.
+[2023.06.09-21.24.00:533][179]LogViewport: Scene viewport resized to 1460x1240, mode Windowed.
+[2023.06.09-21.24.00:688][179]LogViewport: Scene viewport resized to 1460x1241, mode Windowed.
+[2023.06.09-21.24.00:739][179]LogViewport: Scene viewport resized to 1460x1243, mode Windowed.
+[2023.06.09-21.24.01:127][179]LogViewport: Scene viewport resized to 1460x1244, mode Windowed.
+[2023.06.09-21.24.01:168][179]LogViewport: Scene viewport resized to 1460x1246, mode Windowed.
+[2023.06.09-21.25.44:134][191]LogViewport: Scene viewport resized to 1466x1246, mode Windowed.
+[2023.06.09-21.25.44:176][193]LogViewport: Scene viewport resized to 1490x1246, mode Windowed.
+[2023.06.09-21.25.44:198][194]LogViewport: Scene viewport resized to 1502x1246, mode Windowed.
+[2023.06.09-21.25.44:249][196]LogViewport: Scene viewport resized to 1522x1246, mode Windowed.
+[2023.06.09-21.25.44:291][198]LogViewport: Scene viewport resized to 1528x1246, mode Windowed.
+[2023.06.09-21.25.44:457][207]LogViewport: Scene viewport resized to 1531x1246, mode Windowed.
+[2023.06.09-21.25.44:498][209]LogViewport: Scene viewport resized to 1538x1246, mode Windowed.
+[2023.06.09-21.25.44:540][211]LogViewport: Scene viewport resized to 1542x1246, mode Windowed.
+[2023.06.09-21.25.44:667][217]LogViewport: Scene viewport resized to 1543x1246, mode Windowed.
+[2023.06.09-21.25.44:708][219]LogViewport: Scene viewport resized to 1545x1246, mode Windowed.
+[2023.06.09-21.25.44:748][221]LogViewport: Scene viewport resized to 1548x1246, mode Windowed.
+[2023.06.09-21.25.44:787][223]LogViewport: Scene viewport resized to 1554x1246, mode Windowed.
+[2023.06.09-21.25.45:112][242]LogViewport: Scene viewport resized to 1558x1246, mode Windowed.
+[2023.06.09-21.25.45:151][244]LogViewport: Scene viewport resized to 1561x1246, mode Windowed.
+[2023.06.09-21.25.45:192][246]LogViewport: Scene viewport resized to 1567x1246, mode Windowed.
+[2023.06.09-21.25.45:231][248]LogViewport: Scene viewport resized to 1569x1246, mode Windowed.
+[2023.06.09-21.25.45:271][250]LogViewport: Scene viewport resized to 1571x1246, mode Windowed.
+[2023.06.09-21.25.45:361][255]LogViewport: Scene viewport resized to 1575x1246, mode Windowed.
+[2023.06.09-21.25.57:150][864]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.06.09-21.25.57:158][864]LogSlate: Window 'BP_ThirdPersonCharacter' being destroyed
+[2023.06.09-21.25.57:162][864]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.25.57:162][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.26.04:310][289]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.26.04:353][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.06.09-21.26.04:363][289]LogSavePackage: Moving output files for package: /Game/Levels/ReinTest_Level01
+[2023.06.09-21.26.04:363][289]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level011303DC1C44D220D9754973AF59EFBBAA.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap'
+[2023.06.09-21.26.04:367][289]LogFileHelpers: Saving map 'ReinTest_Level01' took 0.031
+[2023.06.09-21.26.04:376][289]LogFileHelpers: InternalPromptForCheckoutAndSave took 65 ms (total: 185 ms)
+[2023.06.09-21.26.04:381][289]AssetCheck: New page: Asset Save: ReinTest_Level01
+[2023.06.09-21.26.04:381][289]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/ReinTest_Level01.ReinTest_Level01
+[2023.06.09-21.27.22:855][207]LogViewport: Scene viewport resized to 1579x1246, mode Windowed.
+[2023.06.09-21.27.22:901][207]LogViewport: Scene viewport resized to 1594x1246, mode Windowed.
+[2023.06.09-21.27.22:947][207]LogViewport: Scene viewport resized to 1610x1246, mode Windowed.
+[2023.06.09-21.27.22:998][207]LogViewport: Scene viewport resized to 1655x1246, mode Windowed.
+[2023.06.09-21.27.23:047][207]LogViewport: Scene viewport resized to 1686x1246, mode Windowed.
+[2023.06.09-21.27.23:098][207]LogViewport: Scene viewport resized to 1694x1246, mode Windowed.
+[2023.06.09-21.27.23:147][207]LogViewport: Scene viewport resized to 1697x1246, mode Windowed.
+[2023.06.09-21.27.23:207][207]LogViewport: Scene viewport resized to 1718x1246, mode Windowed.
+[2023.06.09-21.27.23:277][207]LogViewport: Scene viewport resized to 1750x1246, mode Windowed.
+[2023.06.09-21.27.23:327][207]LogViewport: Scene viewport resized to 1757x1246, mode Windowed.
+[2023.06.09-21.27.23:398][207]LogViewport: Scene viewport resized to 1758x1246, mode Windowed.
+[2023.06.09-21.27.23:459][207]LogViewport: Scene viewport resized to 1759x1246, mode Windowed.
+[2023.06.09-21.27.24:907][288]LogViewport: Scene viewport resized to 1753x1246, mode Windowed.
+[2023.06.09-21.27.24:948][290]LogViewport: Scene viewport resized to 1739x1246, mode Windowed.
+[2023.06.09-21.27.24:991][292]LogViewport: Scene viewport resized to 1729x1246, mode Windowed.
+[2023.06.09-21.28.45:778][189]LogViewport: Scene viewport resized to 1729x1248, mode Windowed.
+[2023.06.09-21.29.34:643][996]LogEditorViewport: Clicking Background
+[2023.06.09-21.29.36:109][ 83]LogEditorViewport: Clicking Background
+[2023.06.09-21.29.39:408][280]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2023.06.09-21.29.49:810][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.49:811][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.49:812][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.49:812][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.49:812][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.49:813][894]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.09-21.29.51:890][981]LogViewport: Scene viewport resized to 1730x1248, mode Windowed.
+[2023.06.09-21.29.51:929][981]LogViewport: Scene viewport resized to 1738x1248, mode Windowed.
+[2023.06.09-21.29.51:974][981]LogViewport: Scene viewport resized to 1775x1248, mode Windowed.
+[2023.06.09-21.29.52:022][981]LogViewport: Scene viewport resized to 1812x1248, mode Windowed.
+[2023.06.09-21.29.52:071][981]LogViewport: Scene viewport resized to 1832x1248, mode Windowed.
+[2023.06.09-21.29.52:116][981]LogViewport: Scene viewport resized to 1843x1248, mode Windowed.
+[2023.06.09-21.29.52:164][981]LogViewport: Scene viewport resized to 1847x1248, mode Windowed.
+[2023.06.09-21.29.52:270][981]LogViewport: Scene viewport resized to 1848x1248, mode Windowed.
+[2023.06.09-21.29.52:321][981]LogViewport: Scene viewport resized to 1850x1248, mode Windowed.
+[2023.06.09-21.29.52:367][981]LogViewport: Scene viewport resized to 1855x1248, mode Windowed.
+[2023.06.09-21.29.52:420][981]LogViewport: Scene viewport resized to 1862x1248, mode Windowed.
+[2023.06.09-21.29.52:474][981]LogViewport: Scene viewport resized to 1870x1248, mode Windowed.
+[2023.06.09-21.29.52:526][981]LogViewport: Scene viewport resized to 1872x1248, mode Windowed.
+[2023.06.09-21.29.57:844][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.09-21.29.57:889][297]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.06.09-21.29.57:894][297]LogSavePackage: Moving output files for package: /Game/Levels/ReinTest_Level01
+[2023.06.09-21.29.57:894][297]LogSavePackage: Moving 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Saved/ReinTest_Level015931C1DE4E91AB11E03A5790E8FEFBCF.tmp' to 'C:/Users/gtrmn/Desktop/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/ReinTest_Level01.umap'
+[2023.06.09-21.29.57:898][297]LogFileHelpers: Saving map 'ReinTest_Level01' took 0.028
+[2023.06.09-21.29.57:905][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 60 ms (total: 246 ms)
+[2023.06.09-21.29.57:910][297]AssetCheck: New page: Asset Save: ReinTest_Level01
+[2023.06.09-21.29.57:911][297]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/ReinTest_Level01.ReinTest_Level01
+[2023.06.09-21.30.02:070][546]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.06.09-21.30.02:070][546]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Actor
+[2023.06.09-21.30.02:072][546]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.Actor_0
+[2023.06.09-21.30.02:072][546]LogActorFactory: Actor Factory spawned Class /Script/Engine.Actor as actor: Actor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.Actor_0
+[2023.06.09-21.30.03:673][639]Cmd: TRANSACTION UNDO
+[2023.06.09-21.30.03:673][639]LogEditorTransaction: Undo Create Actor
+[2023.06.09-21.30.15:726][889]LogViewport: Scene viewport resized to 1547x1248, mode Windowed.
+[2023.06.09-21.30.19:035][ 85]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.30.19:035][ 85]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.30.19:035][ 85]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_0
+[2023.06.09-21.30.19:036][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.30.19:036][ 85]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_0
+[2023.06.09-21.30.19:036][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.30.20:130][150]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.30.20:130][150]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2023.06.09-21.30.20:131][150]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_1
+[2023.06.09-21.30.20:131][150]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.30.20:131][150]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.PlayerStart_1
+[2023.06.09-21.30.20:131][150]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.30.30:309][751]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2023.06.09-21.30.34:183][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.09-21.30.34:183][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.09-21.30.34:183][978]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.StaticMeshActor_0
+[2023.06.09-21.30.34:187][978]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.StaticMeshActor_0
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: ================================================
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Total job queries 3,572, among them cache hits 11 (0.31%)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Tracking 3,559 distinct input hashes that result in 2,524 distinct outputs (70.92%)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: RAM used: 59.07 MiB of 3.20 GiB budget. Usage: 1.80%
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Shaders Compiled: 3,559
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Jobs assigned 3,561, completed 3,559 (99.94%)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Average time worker was idle: 23.69 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Time job spent in pending queue: average 55.38 s, longest 118.80 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Job execution time: average 4.09 s, max 12.33 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Job life time (pending + execution): average 59.50 s, max 123.04
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 136.02 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Jobs were issued in 467 batches (only local compilation was used), average 7.63 jobs/batch
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Average processing rate: 26.17 jobs/sec
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Total thread time: 1,464.68 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Total thread preprocess time: 48.162 s
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Percentage time preprocessing: 3.29%
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Effective parallelization: 10.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 3.86 sec, max 6.63 sec, min 1.43 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 3.60 sec, max 4.39 sec, min 2.11 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.29 sec, max 2.55 sec, min 0.57 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.12 sec, max 1.47 sec, min 0.92 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                  FDiffuseIndirectCompositePS (compiled    6 times, average 1.11 sec, max 2.08 sec, min 0.21 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.46% of total time (compiled  150 times, average 1.12 sec, max 1.47 sec, min 0.92 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.84% of total time (compiled   96 times, average 0.74 sec, max 1.11 sec, min 0.54 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.62% of total time (compiled  128 times, average 0.53 sec, max 0.91 sec, min 0.32 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.30% of total time (compiled  128 times, average 0.49 sec, max 0.66 sec, min 0.37 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 4.22% of total time (compiled   96 times, average 0.64 sec, max 0.92 sec, min 0.30 sec)
+[2023.06.09-21.30.34:741][ 11]LogShaderCompilers: Display: ================================================
+[2023.06.09-21.30.35:474][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.09-21.30.35:474][ 54]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2023.06.09-21.30.35:475][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.StaticMeshActor_1
+[2023.06.09-21.30.35:475][ 54]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/ReinTest_Level01.ReinTest_Level01:PersistentLevel.StaticMeshActor_1
+[2023.06.09-21.30.55:412][213]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.06.09-21.30.55:417][213]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.09-21.30.55:417][213]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2023.06.09-21.30.55:462][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.06.09-21.30.55:466][213]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (1 blueprints)
+[2023.06.09-21.30.55:466][213]PIE: New page: PIE session: ReinTest_Level01 (Jun 9, 2023, 7:30:55 AM)
+[2023.06.09-21.30.55:466][213]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.30.55:466][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001027s)
+[2023.06.09-21.30.55:466][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/ReinTest_Level01.ReinTest_Level01 to /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 (0.001058s)
+[2023.06.09-21.30.55:466][213]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.06.09-21.30.55:467][213]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.09-21.30.55:467][213]LogAIModule: Creating AISystem for world ReinTest_Level01
+[2023.06.09-21.30.55:467][213]LogPlayLevel: PIE: World Init took: (0.000662s)
+[2023.06.09-21.30.55:483][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2023.06.09-21.30.55:483][213]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.09-21.30.55:483][213]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.09-21.30.55:483][213]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.09-21.30.55:484][213]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.09-21.30.55:484][213]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.09-21.30.55:484][213]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.09-21.30.55:485][213]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.09-21.30.55:506][213]LogAudioMixer: Display: Using Audio Hardware Device VoiceMeeter VAIO3 Input (VB-Audio VoiceMeeter VAIO3)
+[2023.06.09-21.30.55:506][213]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.09-21.30.55:506][213]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.09-21.30.55:506][213]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.09-21.30.55:507][213]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.06.09-21.30.55:507][213]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.06.09-21.30.55:508][213]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.06.09-21.30.55:508][213]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.06.09-21.30.55:508][213]LogInit: FAudioDevice initialized with ID 4.
+[2023.06.09-21.30.55:508][213]LogAudio: Display: Audio Device (ID: 4) registered with world 'ReinTest_Level01'.
+[2023.06.09-21.30.55:508][213]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2023.06.09-21.30.55:511][213]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.09-21.30.55:512][213]LogWorld: Bringing World /Game/Levels/UEDPIE_0_ReinTest_Level01.ReinTest_Level01 up for play (max tick rate 60) at 2023.06.09-14.30.55
+[2023.06.09-21.30.55:512][213]LogWorld: Bringing up level for play took: 0.000464
+[2023.06.09-21.30.55:513][213]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.06.09-21.30.55:517][213]PIE: Server logged in
+[2023.06.09-21.30.55:518][213]PIE: Play in editor total start time 0.102 seconds.
+[2023.06.09-21.31.18:741][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.31.18:741][598]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_ReinTest_Level01
+[2023.06.09-21.31.18:741][598]LogWorld: UWorld::CleanupWorld for ReinTest_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.06.09-21.31.18:741][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.31.18:743][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.09-21.31.18:747][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.09-21.31.18:764][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.09-21.31.18:764][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2023.06.09-21.31.18:764][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.09-21.31.18:766][598]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.09-21.31.18:771][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.06.09-21.31.18:833][600]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.06.09-21.31.20:790][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
