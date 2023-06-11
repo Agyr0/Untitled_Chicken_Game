@@ -4,7 +4,35 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Levels/Tucker_TestScene.umap",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/DataAssets/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/DataAssets/Input/Actions/IA_Look.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/DataAssets/Input/Actions/IA_Move.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/DataAssets/Input/IMC_Default.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/ChickenAIController.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/ChickenAIEnum.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAIController.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAIEnum.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAIMaster.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/Animations/ChickenAIAnim.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/TargetPointGRP.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/MovementPoints.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAITree.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAI_Tree.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/ChickenAI_BB.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/Tasks/BTTask_Idle.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/Tasks/BTTask_IsIdle.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/Tasks/BTDecorator_BlueprintBase_New.uasset",
+				"C:/Users/Tucker/Documents/GitHub/Untitled_Chicken_Game/UntitledChicken_Game/Content/Programming/Blueprints/NPCs/Chicken/Tasks/BTTask_RoamAround.uasset"
+			]
 		}
 	]
 }
