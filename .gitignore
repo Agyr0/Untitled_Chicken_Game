@@ -74,3 +74,13 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 *.log
+UntitledChicken_Game/Intermediate/CachedAssetRegistry.bin
+UntitledChicken_Game/Saved/AutoScreenshot.png
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-0281E008473FC6CD734C5E9ADD86F988/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-65D284D1438DCC7809039A99AE35F0C9/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-8D796F004A2063BEAAD6E4A54F7F596E/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-8E3045284E9B09A4E32D72BB35FE8FCB/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-A8AD55BA4110B5784091C5A177059FED/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/CrashReportClient/UECC-Windows-F4D5E9734C13EA4816869D89A3D1D7EB/CrashReportClient.ini
+UntitledChicken_Game/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+UntitledChicken_Game/Saved/Logs/UntitledChicken_Game.log
