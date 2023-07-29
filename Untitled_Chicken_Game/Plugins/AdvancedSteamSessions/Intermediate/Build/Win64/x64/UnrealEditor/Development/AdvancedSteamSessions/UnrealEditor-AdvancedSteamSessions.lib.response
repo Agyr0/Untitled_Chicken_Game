@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UntitledChicken_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"

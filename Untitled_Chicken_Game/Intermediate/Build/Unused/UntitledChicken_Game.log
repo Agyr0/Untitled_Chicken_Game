@@ -1,60 +1,45 @@
 ﻿  Using bundled DotNet SDK version: 6.0.302
-  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" UntitledChicken_GameEditor Win64 Development -Project="D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\UntitledChicken_Game.uproject" -WaitMutex -FromMsBuild
+  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" UntitledChicken_GameEditor Win64 Development -Project="D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\UntitledChicken_Game.uproject" -WaitMutex -FromMsBuild
   Log file: C:\Users\tucho\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game).
+  Using 'git status' to determine working set for adaptive non-unity build (D:\Unreal_Projects\Untitled_Chicken_Game).
   Creating makefile for UntitledChicken_GameEditor (no existing makefile)
+  Parsing headers for UntitledChicken_GameEditor
+    Running Internal UnrealHeaderTool D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\UntitledChicken_Game.uproject D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\UntitledChicken_GameEditor\Development\UntitledChicken_GameEditor.uhtmanifest -WarningsAsErrors -installed
+  Total of 57 written
+  Reflection code generated for UntitledChicken_GameEditor in 1.1667888 seconds
   Building UntitledChicken_GameEditor...
-  Using Visual Studio 2022 14.36.32537 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Using Visual Studio 2022 14.34.31946 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
   [Upgrade]
   [Upgrade] Using backward-compatible include order. The latest version of UE has changed the order of includes, which may require code changes. The current setting is:
   [Upgrade]     IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_0
   [Upgrade] Suppress this message by setting 'IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_2;' in UntitledChicken_GameEditor.Target.cs.
   [Upgrade] Alternatively you can set this to 'EngineIncludeOrderVersion.Latest' to always use the latest include order. This will potentially cause compile errors when integrating new versions of the engine.
   [Upgrade]
-  [Adaptive Build] Excluded from AdvancedSessions unity file: AdvancedExternalUILibrary.gen.cpp, AdvancedFriendsGameInstance.gen.cpp, AdvancedFriendsInterface.gen.cpp, AdvancedFriendsLibrary.gen.cpp, AdvancedGameSession.gen.cpp, AdvancedIdentityLibrary.gen.cpp, AdvancedSessions.init.gen.cpp, AdvancedSessionsLibrary.gen.cpp, AdvancedVoiceLibrary.gen.cpp, AutoLoginUserCallbackProxy.gen.cpp, BlueprintDataDefinitions.gen.cpp, CancelFindSessionsCallbackProxy.gen.cpp, CreateSessionCallbackProxyAdvanced.gen.cpp, EndSessionCallbackProxy.gen.cpp, FindFriendSessionCallbackProxy.gen.cpp, FindSessionsCallbackProxyAdvanced.gen.cpp, GetFriendsCallbackProxy.gen.cpp, GetRecentPlayersCallbackProxy.gen.cpp, GetUserPrivilegeCallbackProxy.gen.cpp, LoginUserCallbackProxy.gen.cpp, LogoutUserCallbackProxy.gen.cpp, SendFriendInviteCallbackProxy.gen.cpp, StartSessionCallbackProxyAdvanced.gen.cpp, UpdateSessionCallbackProxyAdvanced.gen.cpp
-  [Adaptive Build] Excluded from AdvancedSteamSessions unity file: AdvancedSteamFriendsLibrary.gen.cpp, AdvancedSteamSessions.init.gen.cpp, AdvancedSteamWorkshopLibrary.gen.cpp, SteamRequestGroupOfficersCallbackProxy.gen.cpp, SteamWSRequestUGCDetailsCallbackProxy.gen.cpp
   Determining max actions to execute in parallel (24 physical cores, 32 logical cores)
     Executing up to 24 processes, one per physical core
-  Building 37 actions with 24 processes...
-  [1/37] Compile [x64] AdvancedSessions.init.gen.cpp
-  [2/37] Compile [x64] AdvancedGameSession.gen.cpp
-  [3/37] Compile [x64] LoginUserCallbackProxy.gen.cpp
-  [4/37] Compile [x64] SendFriendInviteCallbackProxy.gen.cpp
-  [5/37] Compile [x64] UpdateSessionCallbackProxyAdvanced.gen.cpp
-  [6/37] Compile [x64] StartSessionCallbackProxyAdvanced.gen.cpp
-  [7/37] Compile [x64] AdvancedVoiceLibrary.gen.cpp
-  [8/37] Compile [x64] CancelFindSessionsCallbackProxy.gen.cpp
-  [9/37] Compile [x64] AdvancedFriendsInterface.gen.cpp
-  [10/37] Compile [x64] LogoutUserCallbackProxy.gen.cpp
-  [11/37] Compile [x64] GetRecentPlayersCallbackProxy.gen.cpp
-  [12/37] Compile [x64] CreateSessionCallbackProxyAdvanced.gen.cpp
-  [13/37] Compile [x64] AdvancedExternalUILibrary.gen.cpp
-  [14/37] Compile [x64] FindFriendSessionCallbackProxy.gen.cpp
-  [15/37] Compile [x64] AdvancedIdentityLibrary.gen.cpp
-  [16/37] Compile [x64] AdvancedFriendsLibrary.gen.cpp
-  [17/37] Compile [x64] GetFriendsCallbackProxy.gen.cpp
-  [18/37] Compile [x64] SteamWSRequestUGCDetailsCallbackProxy.gen.cpp
-D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT\SteamWSRequestUGCDetailsCallbackProxy.gen.cpp(8): fatal error C1083: Cannot open include file: '../../../../../../../../../Unreal Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Untitled_Chicken_Game/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamWSRequestUGCDetailsCallbackProxy.h': No such file or directory
-  [19/37] Compile [x64] EndSessionCallbackProxy.gen.cpp
-  [20/37] Compile [x64] SteamRequestGroupOfficersCallbackProxy.gen.cpp
-D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Inc\AdvancedSteamSessions\UHT\SteamRequestGroupOfficersCallbackProxy.gen.cpp(8): fatal error C1083: Cannot open include file: '../../../../../../../../../Unreal Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Untitled_Chicken_Game/Plugins/AdvancedSteamSessions/Source/AdvancedSteamSessions/Classes/SteamRequestGroupOfficersCallbackProxy.h': No such file or directory
-  [21/37] Compile [x64] Module.AdvancedSessions.1_of_2.cpp
-  [22/37] Compile [x64] AutoLoginUserCallbackProxy.gen.cpp
-  [23/37] Compile [x64] GetUserPrivilegeCallbackProxy.gen.cpp
-  [24/37] Compile [x64] AdvancedSessionsLibrary.gen.cpp
-  [25/37] Compile [x64] BlueprintDataDefinitions.gen.cpp
-  [26/37] Compile [x64] AdvancedSteamSessions.init.gen.cpp
-  [27/37] Compile [x64] AdvancedFriendsGameInstance.gen.cpp
-  [28/37] Compile [x64] Module.AdvancedSessions.2_of_2.cpp
-  [29/37] Compile [x64] FindSessionsCallbackProxyAdvanced.gen.cpp
-  [30/37] Link [x64] UnrealEditor-AdvancedSessions.lib
-     Creating library D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib and object D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.exp
-  [31/37] Compile [x64] AdvancedSteamWorkshopLibrary.gen.cpp
-  [32/37] Compile [x64] AdvancedSteamFriendsLibrary.gen.cpp
-  [33/37] Link [x64] UnrealEditor-AdvancedSessions.dll
-     Creating library D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.lib and object D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.exp
-  [34/37] Compile [x64] Module.AdvancedSteamSessions.cpp
-  [35/37] Link [x64] UnrealEditor-AdvancedSteamSessions.dll cancelled
-  [36/37] Link [x64] UnrealEditor-AdvancedSteamSessions.lib cancelled
-  [37/37] WriteMetadata UntitledChicken_GameEditor.target cancelled
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""D:\Program Files (x86)\Unreal\UE_5.2\Engine\Build\BatchFiles\Build.bat" UntitledChicken_GameEditor Win64 Development -Project="D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\UntitledChicken_Game.uproject" -WaitMutex -FromMsBuild" exited with code 6.
+  Building 17 actions with 17 processes...
+  [1/17] Resource Default.rc2
+  [2/17] Resource Default.rc2
+  [3/17] Resource Default.rc2
+  [4/17] Compile [x64] SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.cpp
+  [5/17] Compile [x64] MyClass.cpp
+  [6/17] Compile [x64] UntitledChicken_Game.cpp
+  [7/17] Link [x64] UnrealEditor-UntitledChicken_Game.lib
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UnrealEditor-UntitledChicken_Game.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UnrealEditor-UntitledChicken_Game.exp
+  [8/17] Link [x64] UnrealEditor-UntitledChicken_Game.dll
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UnrealEditor-UntitledChicken_Game.suppressed.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UnrealEditor-UntitledChicken_Game.suppressed.exp
+  [9/17] Compile [x64] Module.AdvancedSessions.2_of_3.cpp
+  [10/17] Compile [x64] Module.AdvancedSessions.1_of_3.cpp
+  [11/17] Compile [x64] Module.AdvancedSteamSessions.cpp
+  [12/17] Link [x64] UnrealEditor-AdvancedSteamSessions.lib
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.exp
+  [13/17] Compile [x64] Module.AdvancedSessions.3_of_3.cpp
+  [14/17] Link [x64] UnrealEditor-AdvancedSessions.lib
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.exp
+  [15/17] Link [x64] UnrealEditor-AdvancedSessions.dll
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSessions\UnrealEditor-AdvancedSessions.suppressed.exp
+  [16/17] Link [x64] UnrealEditor-AdvancedSteamSessions.dll
+     Creating library D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.lib and object D:\Unreal_Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\x64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.suppressed.exp
+  [17/17] WriteMetadata UntitledChicken_GameEditor.target
+  Total time in Parallel executor: 32.72 seconds
+  Total execution time: 35.64 seconds
