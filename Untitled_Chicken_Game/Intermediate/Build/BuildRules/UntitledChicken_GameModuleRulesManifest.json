@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Source\\UntitledChicken_Game\\UntitledChicken_Game.Build.cs",
+		"D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Plugins\\AdvancedSessions\\Source\\AdvancedSessions\\AdvancedSessions.Build.cs",
+		"D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Plugins\\AdvancedSteamSessions\\Source\\AdvancedSteamSessions\\AdvancedSteamSessions.Build.cs",
+		"D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Source\\UntitledChicken_Game.Target.cs",
+		"D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Source\\UntitledChicken_GameEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

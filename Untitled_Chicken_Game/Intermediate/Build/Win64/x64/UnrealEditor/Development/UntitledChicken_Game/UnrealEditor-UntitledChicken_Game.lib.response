@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UntitledChicken_Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UntitledChicken_GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\MyClass.cpp.obj"
+"D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UntitledChicken_Game.cpp.obj"
+"D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Untitled_Chicken_Game\Untitled_Chicken_Game\Untitled_Chicken_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\UntitledChicken_Game\UnrealEditor-UntitledChicken_Game.lib"

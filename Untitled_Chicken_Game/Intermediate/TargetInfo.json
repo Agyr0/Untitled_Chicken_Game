@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UntitledChicken_Game",
+			"Path": "D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Source\\UntitledChicken_Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UntitledChicken_GameEditor",
+			"Path": "D:\\Unreal Projects\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Untitled_Chicken_Game\\Source\\UntitledChicken_GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

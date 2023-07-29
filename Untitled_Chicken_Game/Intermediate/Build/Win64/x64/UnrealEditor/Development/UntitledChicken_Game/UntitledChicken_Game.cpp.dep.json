@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\untitled_chicken_game\\untitled_chicken_game\\untitled_chicken_game\\source\\untitledchicken_game\\untitledchicken_game.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\untitled_chicken_game\\untitled_chicken_game\\untitled_chicken_game\\intermediate\\build\\win64\\x64\\untitledchicken_gameeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\untitled_chicken_game\\untitled_chicken_game\\untitled_chicken_game\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\untitledchicken_game\\definitions.untitledchicken_game.h",
+            "d:\\unreal projects\\untitled_chicken_game\\untitled_chicken_game\\untitled_chicken_game\\source\\untitledchicken_game\\untitledchicken_game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
