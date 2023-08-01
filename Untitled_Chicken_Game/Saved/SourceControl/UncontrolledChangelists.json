@@ -6,6 +6,15 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/AFGI_Main.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PC_Game.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GM_Game.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Lobby/BP_GM_Lobby.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/MainMenu/BP_PC_Menu.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Levels/Tucker_TestScene.umap",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/Widgets/Lobby/WB_LobbyMenu.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Lobby/BP_PC_Lobby.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/MainMenu/BP_GM_Menu.uasset",
 				"D:/Unreal Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/StarterContent/Audio/Collapse01.uasset"
 			]
 		}
