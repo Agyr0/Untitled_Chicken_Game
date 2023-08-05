@@ -7,7 +7,6 @@
 			"files": [
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/AFGI_Main.uasset",
-				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PC_Game.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GM_Game.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Lobby/BP_GM_Lobby.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/MainMenu/BP_PC_Menu.uasset",
@@ -17,11 +16,14 @@
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/MainMenu/BP_GM_Menu.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GM_Escape.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GS_Escape.uasset",
-				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GS_Game.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_HUD_Escape.uasset",
-				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_HUD_Game.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PC_Escape.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PS_Escape.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/Blueprints/Chicken/Chicken_Player.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/Blueprints/Farmer/Farmer.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PC_Game.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_GS_Game.uasset",
+				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_HUD_Game.uasset",
 				"D:/Unreal_Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/Programming/GameModes/Game/BP_PS_Game.uasset",
 				"D:/Unreal Projects/Untitled_Chicken_Game/Untitled_Chicken_Game/Untitled_Chicken_Game/Content/StarterContent/Audio/Collapse01.uasset"
 			]
